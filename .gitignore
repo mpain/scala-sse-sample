@@ -1,0 +1,20 @@
+*.iml
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+project/boot/
+project/plugins/project/
+.bsp/
+.bloop/
+.metals/
+.vscode/
+
+
+# Scala-IDE specific
+.scala_dependencies
+.idea/
+
+.DS_Store
